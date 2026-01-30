@@ -23,6 +23,7 @@ programs=(
   # Utils #
   #########
 
+  "unzip"
   "stow"
   "tree"
   "btop"
