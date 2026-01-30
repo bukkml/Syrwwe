@@ -49,6 +49,9 @@ done
 # Install tofi
 yay -S --noconfirm tofi
 
+# Install Zen browser
+yay -S --noconfirm zen-browser-bin
+
 # nerdfonts
 curl https://api.github.com/repos/ryanoasis/nerd-fonts/tags | grep "tarball_url" | grep -Eo 'https://[^\"]*' | sed  -n '1p' | xargs wget -O - | tar -xz && \
 mkdir -p $HOME/.local/share/fonts && \
