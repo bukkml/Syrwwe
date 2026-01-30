@@ -76,7 +76,7 @@ rm -rf Bibata-Modern-Classic.tar.xz
 
 git clone git@github.com:bukkml/bukkConfig .config/nvim
 
-systemctl enable ly.service
+sudo systemctl enable ly@tty1.service
 
 # Move dotfiles to their respective places, adopts existing files then overrides them to what they should be 
 stow . --adopt
