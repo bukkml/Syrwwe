@@ -47,6 +47,7 @@ programs=(
   ############
 
   "dkms"
+  "nvidia-utils"
   "libva-nvidia-driver"
   "nvidia-open-dkms"
   "xorg-server"
