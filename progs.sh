@@ -9,6 +9,7 @@ programs=(
   "hyprland"
   "hyprlock"
   "hypridle"
+  "hyprpaper"
   "waybar"
   "kitty"
   "ly"
