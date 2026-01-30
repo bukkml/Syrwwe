@@ -67,10 +67,6 @@ mkdir -p ~/.local/share/icons/
 mv Bibata-* ~/.local/share/icons/
 rm -rf Bibata-Modern-Classic.tar.xz
 
-# Wallpaper
-mv bg/bg.* ~/Pictures/.
-rm -rf bg
-
 # ############# #
 # Configuration #
 # ############# #
