@@ -52,6 +52,7 @@ programs=(
   "nvidia-open-dkms"
   "xorg-server"
   "xorg-xinit"
+  "nvidia-open"
 
   ###############
   # Pwogwamming #
