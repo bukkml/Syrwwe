@@ -16,7 +16,6 @@ programs=(
   "playerctl"
   "pipewire"
   "pipewire-pulse"
-  "pulseaudio"
   "hyfetch"
 
   #########
