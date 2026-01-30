@@ -7,7 +7,7 @@
 	# characters not in the chosen font will fail to render.
 	#
 	# Otherwise, fonts are interpreted in Pango format.
-	font = /home/bee/.local/share/fonts/PxPlusIBMVGA8NerdFont-Regular.ttf 
+	font = /home/max/.local/share/fonts/PxPlusIBMVGA8NerdFont-Regular.ttf 
 
 	# Point size of text.
 	font-size = 40

@@ -28,7 +28,7 @@ programs=(
   "btop"
   # "ffmpeg"
   "curl"
-  # "dolphin"
+  "dolphin"
   "polkit-kde-agent"
   "openssh"
   "xdg-utils"
