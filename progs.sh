@@ -57,7 +57,7 @@ programs=(
   ###############
 
   "python3"
-  "valgrid"
+  "valgrind"
   "gdb"
   "ripgrep"
   "fd"
